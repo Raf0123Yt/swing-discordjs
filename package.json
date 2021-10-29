@@ -1,0 +1,19 @@
+{
+  "name": "swing-discord.js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raf0123Yt/swing-discordjs.git"
+  },
+  "author": "raf0123, bibifire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Raf0123Yt/swing-discordjs/issues"
+  },
+  "homepage": "https://github.com/Raf0123Yt/swing-discordjs#readme"
+}
