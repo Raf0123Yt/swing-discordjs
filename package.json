@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Raf0123Yt/swing-discordjs/issues"
   },
-  "homepage": "https://github.com/Raf0123Yt/swing-discordjs#readme"
+  "homepage": "https://github.com/Raf0123Yt/swing-discordjs#readme",
+  "dependencies": {
+    "discord.js": "^13.3.0",
+    "fs": "^0.0.1-security"
+  }
 }
